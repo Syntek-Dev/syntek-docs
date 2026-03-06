@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "auto_optimisation_enabled": true,
-  "min_runs_for_analysis": 50,
-  "project": "syntek-docs",
-  "stack": "docs",
-  "created": "06/03/2026",
-  "version": "1.0.0"
-}

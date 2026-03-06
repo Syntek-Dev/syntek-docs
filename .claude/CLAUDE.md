@@ -173,7 +173,7 @@ The built static site is deployed to `syntek-infrastructure` (Hetzner) via Cloud
 
 - **Staging:** Automatic deploy on merge to `staging` branch
 - **Production:** Automatic deploy on merge to `main` branch
-- **URL:** `docs.syntekstudio.com` (or configured subdomain)
+- **URL:** `syntekstudio.com/docs`
 
 Deployment is managed by the CI/CD pipeline and NixOS service definitions in `syntek-infrastructure`. No manual server access is required or permitted.
 
